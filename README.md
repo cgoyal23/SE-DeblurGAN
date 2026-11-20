@@ -66,7 +66,7 @@ The saved outputs report **50,000 training pairs** and **1,300 test pairs**. Met
 | --- | --- |
 | [Deblurring notebook](<image-deblurring-using-gan-a655e6%20(3).ipynb>) | Dataset loading, model definitions, training, evaluation, and saved visualizations |
 | `README.md` | Project overview and usage guidance |
-| `*.pdf` | Additional EE655 coursework documents |
+| `*.pdf` | Additional CS771 coursework documents |
 
 Datasets, trained weights, and a dependency lockfile are not included.
 
